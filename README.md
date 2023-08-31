@@ -20,3 +20,4 @@
     :CocInstall coc-python
     :CocUpdate
     
+For import suggestions push the TAB key.
