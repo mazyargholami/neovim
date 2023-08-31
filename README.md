@@ -2,7 +2,7 @@
 
     sudo apt-get install neovim
     
-    First install repository: https://github.com/junegunn/vim-plug
+    Install repository: https://github.com/junegunn/vim-plug
     Copy init.vim to your OS: ~/.config/nvim/init.vim
     
     run nvim
