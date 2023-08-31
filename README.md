@@ -16,5 +16,6 @@
     npm install
 
     apt install python3-pip
+    apt install jedi
     :CocInstall coc-python
     
