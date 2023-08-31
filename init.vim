@@ -6,6 +6,7 @@
 :set smarttab
 :set softtabstop=4
 :set mouse=a
+:tnoremap <Esc> <C-\><C-n>
 
 call plug#begin()
 
