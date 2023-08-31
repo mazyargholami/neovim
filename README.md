@@ -14,3 +14,7 @@
     
     cd ~/.local/share/nvim/plugged/coc.nvim/
     npm install
+
+    apt install python3-pip
+    :CocInstall coc-python
+    
