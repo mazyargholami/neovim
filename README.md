@@ -1,5 +1,7 @@
-# Neo Vim Config
-  
+# Neo Vim Install/Config
+
+    sudo apt-get install neovim
+    
     First install repository: https://github.com/junegunn/vim-plug
     Copy init.vim to your OS: ~/.config/nvim/init.vim
     
