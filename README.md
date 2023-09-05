@@ -20,5 +20,5 @@
     :CocInstall coc-python
     :CocUpdate
     
-For import suggestions push the TAB key.
-For open file in nvim use -> :e example.txt
+### For import suggestions push the TAB key.
+### For open file in nvim use -> :e example.txt
